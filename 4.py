@@ -9,3 +9,4 @@ while True:
         print(f"В этом числе {num_length} цифры.")
     else:
         print("Ошибка: данные не являются числом.")
+ 
