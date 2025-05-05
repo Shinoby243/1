@@ -9,3 +9,4 @@ try:
         print(f"Число {num} {parity}")
 except ValueError:
     print("Ошибка: введено не число")
+ 
